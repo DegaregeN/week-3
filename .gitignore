@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data
+data/dataset.txt
+data2/cleaned_data.csv
+
 # C extensions
 *.so
 
